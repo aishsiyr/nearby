@@ -1,8 +1,4 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# nearby
+Nearby is a realtime application that leverages a local business API to help users explore businesses around their city effortlessly. By fetching real-time data from the API, Nearby provides up-to-date information on various local establishments, including restaurants, shops, services, and more.
+>>>>>>> b4d89b93e7cd2602893a4b1c095b7deb1cee9501
